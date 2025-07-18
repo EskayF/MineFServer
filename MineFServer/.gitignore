@@ -1,0 +1,28 @@
+# Mundos
+world/
+world_nether/
+world_the_end/
+
+# Logs y caché
+logs/
+cache/
+
+# Configs y archivos autogenerados
+usercache.json
+version_history.json
+banned-ips.json
+banned-players.json
+ops.json
+help.yml
+eula.txt
+permissions.yml
+.console_history
+
+# Configs generales
+config/
+
+# IDEs
+.vscode/
+.classpath
+.project
+.settings/
